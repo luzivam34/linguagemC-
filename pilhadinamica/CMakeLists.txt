@@ -6,3 +6,4 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(pilhadinamica main_pilhadinamica.cpp
         pilhadinamica.h
         pilhadinamica.cpp)
+ 
